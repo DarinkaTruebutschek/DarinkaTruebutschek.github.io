@@ -12,8 +12,8 @@ site-twitter: #if your site has a twitter account, enter it here
 
 # Author Settings
 author: Darinka Trübutschek # add your name
-author-img: DT_ProfilePic.jpg # add your photo
-about-author: I am a web developer focusing on front-end development. Always hungry to keep learning. # add description
+author-img: DT_Profile_Pic.jpg # add your photo
+about-author: I am a cognitive neuroscientist trying to understand how we perceive and remember information. I am also interested in open-science and hope to contribute to the community. # add description
 social-twitter: # add your Twitter handle
 social-facebook: # add your Facebook handle
 social-github: DarinkaTruebutschek # add your Github handle
