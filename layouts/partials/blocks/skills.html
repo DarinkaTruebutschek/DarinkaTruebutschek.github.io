@@ -24,3 +24,18 @@
       {{ . | emojify | $page.RenderString }}
     </div>
     {{ end }}
+
+    {{ range $skills }}
+    {{ $color := .color | default "" }}
+    {{ $color_border := .color_border | default "" }}
+    <div class="col-12 col-md-6">
+      <div class="skill-group-title">
+        {{ .name | markdownify | emojify }}
+        {{ with .description }}<p>{{ . | markdownify | emojify }}</p>{{ end }}
+      </div>
+      {{ range .items }}
+        {{ $pack := or .icon_pack "fas" }}
+        {{ $pack_prefix := $pack }}
+        {{ if in (slice "fab" "fas" "far" "fal") $pack }}
+          {{ $pack_prefix = "fa" }}
+        {{ end }}
