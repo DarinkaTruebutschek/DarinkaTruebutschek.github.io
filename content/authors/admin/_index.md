@@ -1,50 +1,54 @@
 ---
 # Display name
-title: 吳健雄
+title: Dr. Darinka Trübutschek
 
 # Name pronunciation (optional)
-name_pronunciation: Chien Shiung Wu
+name_pronunciation: ''
 
 # Full name (for SEO)
-first_name: Shiung Wu
-last_name: Chien
+first_name: Darinka
+last_name: Trübutschek
 
 # Status emoji
-status:
-  icon: ☕️
+#status:
+  #icon: ☕️
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position/tagline
-role: Professor of Artificial Intelligence
+role: MSCA Postdoctoral Research Fellow
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Stanford University
-    url: https://www.stanford.edu/
+  - name: Max Planck Institute for Empirical Aesthetics
+    url: https://www.aesthetics.mpg.de/en/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: I am a cognitive neuroscientist, trying to understand how our brain generates and stores subjective experience. Beyond that, I am also a newly minted mother *2.
 
 # Interests to show in About widget
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Subjective experience
+  - Consciousness
+  - Perception
+  - Working memory
+  - Statistical learning
+  - Open science
 
 # Education to show in About widget
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
+    - course: PhD in Cognitive Neuroscience
+      advisor: Prof. Stanislas Dehaene
+      institution: Sorbonne Université, Paris, France
+      year: 2018
+    - course: MSc in Behavioral and Cognitive Neuroscience
+      institution: Université Pierre et Marie Curie, Paris, France
+      year: 2013
+    - course: BSc with Honors in Psychology
+      institution: Washington and Lee University, Lexington, VA, USA
+      year: 2010
 
 # Skills
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
@@ -96,22 +100,20 @@ social:
     link: '/#contact'
   - icon: twitter
     icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
+    link: https://twitter.com/DTruebutschek
     label: Follow me on Twitter
     display:
       header: true
-  - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
-    icon_pack: fas
-    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+  - icon: google-scholar # Alternatively, use `google-scholar` icon from `ai` icon pack
+    icon_pack: ai
+    link: https://scholar.google.com/citations?user=3sFHeiQAAAAJ&hl=en
+  - icon: orcid
+    icon_pack: fab
+    link: https://orcid.org/0000-0001-7977-1366
   - icon: github
     icon_pack: fab
-    link: https://github.com/gcushen
-  - icon: linkedin
-    icon_pack: fab
-    link: https://www.linkedin.com/
+    link: https://github.com/DarinkaTruebutschek
   # Link to a PDF of your resume/CV.
-  # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.yaml`,
-  # and uncomment the lines below.
   - icon: cv
     icon_pack: ai
     link: uploads/resume.pdf
@@ -120,5 +122,8 @@ social:
 highlight_name: true
 ---
 
-Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+I am a cognitive neuroscientist, trying to understand how the human brain generates and stores subjective experiences. To this end, I combine psychophysics and eye-tracking with electrophysiology, computational modeling, and machine learning to dissect how sensory representations are transformed into subjective percepts, memories, and decisions, and how those are shaped by previous experiences and future goals. I also care deeply about making science as accessible, fair, inclusive, and open as possible and take part in several open-science initiatives, including being a steering committee member of the [EEGManyPipelines project](https://www.eegmanypipelines.org/).
+{style="text-align: justify;"}
+
+I am currently a postdoctoral research fellow, funded by an [MSCA Individual Fellowship](https://cordis.europa.eu/project/id/101023805), with Dr. Lucia Melloni at the [Max Planck Institute for Empirical Aesthetics](https://www.aesthetics.mpg.de/en/research/research-group-neural-circuits-consciousness-and-cognition.html) in Frankfurt/Main (Germany). Previously I worked with Prof. Mark Stokes at the [University of Oxford](https://www.psy.ox.ac.uk/news/in-memoriam-mark-stokes) (UK) as a postdoctoral research fellow funded by the [Fondation Fyssen](https://www.fondationfyssen.fr/en/) and completed my PhD with Prof. Stanislas Dehaene at [Neurospin](https://www.unicog.org/) (Paris, France).
 {style="text-align: justify;"}
