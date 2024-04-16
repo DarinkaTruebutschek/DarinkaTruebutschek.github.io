@@ -44,7 +44,7 @@ sections:
       username: admin
   - block: skills
     content:
-      title: Skills
+      title: Expertise
       text: ''
       # Choose a user to display skills from (a folder name within `content/authors/`)
       username: admin
