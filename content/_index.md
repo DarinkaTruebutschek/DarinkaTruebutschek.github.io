@@ -241,12 +241,12 @@ sections:
       phone: +49 69 8300479-332
       #appointment_url: 'https://calendly.com'
       address:
-        street: 450 Serra Mall
-        city: Stanford
-        region: CA
-        postcode: '94305'
-        country: United States
-        country_code: Germany
+        street: Max Planck Institute for Empirical Aesthetics, Grüneburgweg 14
+        city: '60322' Frankfurt/Main
+        #region: CA
+        #postcode: '94305'
+        country: Germany
+        #country_code: Germany
       #directions: Enter Building 1 and take the stairs to Office 200 on Floor 2
       #office_hours:
         #- 'Monday 10:00 to 13:00'
