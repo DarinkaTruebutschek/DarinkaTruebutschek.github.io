@@ -53,6 +53,10 @@ education:
 # Skills
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
 skills:
+  - name: Electrophysiology & brain imaging
+    items:
+      - name: EEG
+      - name: MEG
   - name: Technical
     items:
       - name: Python
