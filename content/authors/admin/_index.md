@@ -56,7 +56,17 @@ skills:
   - name: Electrophysiology & brain imaging
     items:
       - name: EEG
+        description: ''
+        percent: 70
+      - name: intracranial EEG
+        description: ''
+        percent: 60
       - name: MEG
+        description: ''
+        percent: 90
+      - name: functional MRI
+        description: ''
+        percent: 50
   - name: Technical
     items:
       - name: Python
