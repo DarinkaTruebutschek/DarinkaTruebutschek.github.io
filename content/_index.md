@@ -50,7 +50,8 @@ sections:
       username: admin
     design:
       #columns: '1'
-      columns: '2'
+      columns: '2' #this essentially moves the header of this section to the left
+      view: showcase
   - block: experience
     content:
       title: Experience
