@@ -24,3 +24,6 @@
         {{ . | emojify | $page.RenderString }}
     </div>
     {{ end }}
+
+    {{ range $skills}}
+        {{ $color := .color | default ""}}
