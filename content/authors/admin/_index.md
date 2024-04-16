@@ -28,27 +28,27 @@ organizations:
 bio: I am a cognitive neuroscientist, trying to understand how our brain generates and stores subjective experience. Beyond that, I am also a newly minted mother *2.
 
 # Interests to show in About widget
-interests:
-  - Subjective experience
-  - Consciousness
-  - Perception
-  - Working memory
-  - Statistical learning
-  - Open science
+#interests:
+  #- Subjective experience
+  #- Consciousness
+  #- Perception
+  #- Working memory
+  #- Statistical learning
+  #- Open science
 
 # Education to show in About widget
-education:
-  courses:
-    - course: PhD in Cognitive Neuroscience
-      advisor: Prof. Stanislas Dehaene
-      institution: Sorbonne Université, Paris, France
-      year: 2018
-    - course: MSc in Behavioral and Cognitive Neuroscience
-      institution: Université Pierre et Marie Curie, Paris, France
-      year: 2013
-    - course: BSc with Honors in Psychology
-      institution: Washington and Lee University, Lexington, VA, USA
-      year: 2010
+#education:
+  #courses:
+    #- course: PhD in Cognitive Neuroscience
+      #advisor: Prof. Stanislas Dehaene
+      #institution: Sorbonne Université, Paris, France
+      #year: 2018
+    #- course: MSc in Behavioral and Cognitive Neuroscience
+      #institution: Université Pierre et Marie Curie, Paris, France
+      #year: 2013
+    #- course: BSc with Honors in Psychology
+      #institution: Washington and Lee University, Lexington, VA, USA
+      #year: 2010
 
 # Skills
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
