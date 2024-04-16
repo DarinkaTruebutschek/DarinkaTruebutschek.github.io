@@ -16,3 +16,11 @@
 {{ $skills := $person_page.Params.skills }}
 
 <div class="col-12 {{if eq $columns "2"}}col-lg-8{{end}}"></div>
+
+<div class="row">
+
+    {{ with $block.content.text }}
+    <div class="col-md-12 text-center mb-3">
+      {{ . | emojify | $page.RenderString }}
+    </div>
+    {{ end }}
