@@ -237,8 +237,8 @@ sections:
       text: |-
         If you care about similar topics, would like to learn more, or just want to chat, I look forward to hearing from you.
       # Contact (add or remove contact options as necessary)
-      email: test@example.org
-      phone: 888 888 88 88
+      email: darinka(dot)truebutschek(dot)ae(dot)mpg(at)de
+      phone: +49 69 8300479-332
       #appointment_url: 'https://calendly.com'
       address:
         street: 450 Serra Mall
@@ -246,7 +246,7 @@ sections:
         region: CA
         postcode: '94305'
         country: United States
-        country_code: US
+        country_code: Germany
       #directions: Enter Building 1 and take the stairs to Office 200 on Floor 2
       #office_hours:
         #- 'Monday 10:00 to 13:00'
