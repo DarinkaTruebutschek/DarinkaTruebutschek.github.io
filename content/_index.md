@@ -242,7 +242,7 @@ sections:
       #appointment_url: 'https://calendly.com'
       address:
         street: Max Planck Institute for Empirical Aesthetics, Grüneburgweg 14
-        city: '60322' Frankfurt/Main
+        city: Frankfurt/Main
         #region: CA
         #postcode: '94305'
         country: Germany
