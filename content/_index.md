@@ -51,7 +51,7 @@ sections:
     design:
       #columns: '1'
       columns: '2' #this essentially moves the header of this section to the left
-      view: showcase
+      view: list
   - block: experience
     content:
       title: Experience
