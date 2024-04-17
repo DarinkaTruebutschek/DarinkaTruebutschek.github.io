@@ -53,56 +53,49 @@ bio: I am a cognitive neuroscientist, trying to understand how our brain generat
 # Skills
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
 skills:
-  - name: Electrophys & brain imaging
+  - name: Experimental techniques
+    color: '#aa0815'
+    color_border: '#aa0815'
     items:
-      - name: EEG
-        description: ''
-        percent: 70
-      - name: intracranial EEG
-        description: ''
-        percent: 60
-      - name: MEG
+      - name: psychophysics
         description: ''
         percent: 90
-      - name: functional MRI
+        icon: computer
+        icon_pack: fas
+      - name: eye-tracking
+        description: ''
+        percent: 60
+        icon: eye
+        icon_pack: fas
+      - name: (f)MRI
         description: ''
         percent: 50
-  - name: Technical
+        icon: brain
+        icon_pack: fas
+      - name: ECoG, EEG, & MEG
+        description: ''
+        percent: 90
+        icon: brain
+        icon_pack: fs
+  - name: Coding
+    color: '#f0b41c'
+    color_border: '#f0b41c'
     items:
+      - name: Matlab
+        description: ''
+        percent: 80
+        icon: chart-line
+        icon_pack: fas
+      - name: R
+        description: ''
+        percent: 30
+        icon: r
+        icon_pack: fas
       - name: Python
         description: ''
         percent: 80
         icon: python
         icon_pack: fab
-      - name: Data Science
-        description: ''
-        percent: 100
-        icon: chart-line
-        icon_pack: fas
-      - name: SQL
-        description: ''
-        percent: 40
-        icon: database
-        icon_pack: fas
-  #- name: Hobbies
-    #color: '#eeac02'
-    #color_border: '#f0bf23'
-    #items:
-      #- name: Hiking
-        #description: ''
-        #percent: 60
-        #icon: person-hiking
-        #icon_pack: fas
-      #- name: Cats
-        #description: ''
-        #percent: 100
-        #icon: cat
-        #icon_pack: fas
-      #- name: Photography
-        #description: ''
-        #percent: 80
-        #icon: camera-retro
-        #icon_pack: fas
 
 # Social/Academic Networking
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
