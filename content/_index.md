@@ -64,27 +64,62 @@ sections:
       #   Leave `date_end` empty if it's your current employer.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
-        - title: CEO
-          company: GenCoin
-          company_url: ''
-          company_logo: org-gc
-          location: California
+        - title: Postdoctoral Research Fellow
+          company: Max Planck Institute for Empirical Aesthetics
+          company_url: 'https://www.aesthetics.mpg.de/en.html'
+          company_logo: mpi_ea_logo
+          location: Frankfurt/Main, Germany
           date_start: '2021-01-01'
           date_end: ''
           description: |2-
-              Responsibilities include:
-
-              * Analysing
-              * Modelling
-              * Deploying
-        - title: Professor of Semiconductor Physics
-          company: University X
-          company_url: ''
-          company_logo: org-x
-          location: California
-          date_start: '2016-01-01'
+              Main research projects:
+              * Deciphering the neuronal mechanisms of how the past shapes current perception in the human brain
+              * Event segmentation and time perception: understanding why time feels like flying
+              
+              Major sources of funding:
+              * BIAL Foundation Grant
+              * Marie Sklodowska-Curie Individual Fellowship
+            
+        - title: Postdoctoral Research Fellow
+          company: University of Oxford
+          company_url: 'https://www.ox.ac.uk/'
+          company_logo: Uni_Oxford_logo
+          location: Oxford, UK
+          date_start: '2019-01-01'
           date_end: '2020-12-31'
-          description: Taught electronic engineering and researched semiconductor physics.
+          description: |2-
+            Main research project:
+            * Exploring the neural mechanisms of cognitive flexibility in working memory
+            
+            Major source of funding:
+            * Fondation Fyssen Postdoctoral Study Grant
+        - title: PhD Candidate
+          company: Neurospin
+          company_url: 'https://www.unicog.org/'
+          company_logo: unicog_logo
+          location: Saclay/Gif-sur-Yvette, France
+          date_start: '2014-11-01'
+          date_end: '2018-10-31'
+          description: |2-
+              Main research project:
+              * Characterizing the neuro-cognitive architecture of non-conscious working memory
+              
+              Major source of funding:
+              * Ecole des Neurosciences (ENP) Graduate Fellowship
+        - title: Postbaccalaureate Fellow in Functional Neuroimaging
+          company: Duke University
+          company_url: 'https://www.egnerlab.org/'
+          company_logo: Uni_Duke_logo
+          location: Durham, NC, USA
+          date_start: '2010-06-01'
+          date_end: '2012-08-31'
+          description: |-2
+            Main research project:
+              * Exploring the neural correlates of declarative and procedural working memory
+              
+              Major source of funding:
+              * Duke Brain Imaging and Analysis Center Postbaccalaureate Research Fellowship
+          
     design:
       columns: '2'
   - block: accomplishments

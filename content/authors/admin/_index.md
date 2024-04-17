@@ -76,7 +76,7 @@ skills:
         description: ''
         percent: 90
         icon: brain
-        icon_pack: fs
+        icon_pack: fas
   - name: Coding
     color: '#f0b41c'
     color_border: '#f0b41c'
