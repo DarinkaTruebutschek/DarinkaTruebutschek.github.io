@@ -1,0 +1,39 @@
+# Theme metadata
+name = "Minimal"
+
+[light]
+  # Primary
+  #primary = "#1565c0"
+  primary = "#035AA6"
+
+  # Menu
+  #menu_primary = "#fff"
+  #menu_text = "#34495e"
+  #menu_text_active = "#2962ff"
+  #menu_title = "#2b2b2b"
+  
+  menu_primary = "#FFF" 
+  menu_text = "#000"
+  menu_text_active = "#035AA6"
+  menu_title = "#000"
+
+  # Home sections
+  #home_section_odd = "rgb(255, 255, 255)"
+  #home_section_even = "rgb(247, 247, 247)"
+  
+  home_section_odd = "#FFF"
+  home_section_even = "rgb(234, 242, 250)"
+  
+  # Link link_hover
+  link = "#035AA6"
+  link_hover = "#035AA6"
+
+[dark]
+  # Primary
+  #primary = "#bbdefb"
+  primary = "#035AA6"
+
+  #link = "#bbdefb"
+  #link_hover = "#bbdefb"
+  link = "#035AA6"
+  link_hover = "#035AA6"

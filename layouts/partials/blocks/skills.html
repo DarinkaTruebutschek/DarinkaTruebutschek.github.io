@@ -20,6 +20,7 @@
 <div class="row">
 
   {{ with $block.content.text }}
+  <!--<div class="col-md-12 text-center mb-3 mt-5"> -->
   <div class="col-md-12 text-center mb-3">
     {{ . | emojify | $page.RenderString }}
   </div>
@@ -28,11 +29,12 @@
   {{ range $skills }}
     {{ $color := .color | default "" }}
     {{ $color_border := .color_border | default "" }}
-    <div class="col-12 col-md-6">
+    <!--<div class="col-12 col-md-6"> -->
+    <div class= "col-12 col-md-6">
       <div class="skill-group-title">
         {{ .name | markdownify | emojify }}
         {{ with .description }}<p>{{ . | markdownify | emojify }}</p>{{ end }}
-     <!-- </div>
+     </div>
       {{ range .items }}
         {{ $pack := or .icon_pack "fas" }}
         {{ $pack_prefix := $pack }}
@@ -65,12 +67,7 @@
       </div>
       {{ end }}
     </div>
-  {{ end }} -->
-
-
-
-
-
+  {{ end }}
 </div>
 {{ end }}
 </div>
