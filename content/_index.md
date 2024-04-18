@@ -147,12 +147,57 @@ sections:
           url: ''
         - certificate_url: '' #uncommenting this adds a button 'See certificate'
           date_end: ''
-          date_start: '2022-01-01'
-          description: 'Project: Event segmentation and time perception: understanding why time feels like flying'
-          icon: Bial_logo
-          organization: Bial Foundation
-          organization_url: https://www.loreal.com/de-de/germany/press-release/group/loreal-und-unesco-ehren-herausragende-wissenschaftlerinnen/
-          title: Bial Foundation Grant
+          date_start: '2022-09-28'
+          description: ''
+          icon: FWIS
+          organization: L'Oréal Groupe
+          organization_url: https://www.loreal.com/de-de/germany/pages/commitments/fwis/
+          title: L'Oréal-Unesco Award for Women in Science National Award
+          url: 'https://www.loreal.com/de-de/germany/press-release/group/loreal-und-unesco-ehren-herausragende-wissenschaftlerinnen/'
+        - certificate_url: '' #uncommenting this adds a button 'See certificate'
+          date_end: '2025-07-20'
+          date_start: '2022-09-01'
+          description: 'Project: Cortical hierarchy of memories - deciphering the neuronal mechanisms of serial dependence in the human brain'
+          icon: msca-if-logo
+          organization: European Commission
+          organization_url: https://marie-sklodowska-curie-actions.ec.europa.eu/actions/postdoctoral-fellowships
+          title: Marie Sklodowska-Curie Individual Fellowship
+          url: 'https://cordis.europa.eu/project/id/101023805'
+        - certificate_url: '' #uncommenting this adds a button 'See certificate'
+          date_end: '2023-01-31'
+          date_start: '2021-02-01'
+          description: ''
+          icon: CNV_Logo
+          organization: Christiane Nüsslein-Volhard Foundation
+          organization_url: https://cnv-stiftung.de/en/goals
+          title: Christiane Nüsslein-Volhard Fellowship for Women in STEM
+          url: 'https://cnv-stiftung.de/stipendiatinnen/stipendiatinnen-2021'
+        - certificate_url: '' #uncommenting this adds a button 'See certificate'
+          date_end: '2020-12-31'
+          date_start: '2019-01-01'
+          description: 'Project: Dynamics of activity-silent states and architecture of working memory in the human brain'
+          icon: Fyssen
+          organization: Fondation Fyssen
+          organization_url: https://www.fondationfyssen.fr/en/
+          title: Postdoctoral Fellowship
+          url: 'https://www.fondationfyssen.fr/wp-content/uploads/2022/09/web150_Annales_35_Complet-1.pdf'
+        - certificate_url: '' #uncommenting this adds a button 'See certificate'
+          date_end: ''
+          date_start: '2019-12-01'
+          description: ''
+          icon: ThesisPrize
+          organization: Chancellerie des universités de Paris
+          organization_url: https://www.sorbonne.fr/la-chancellerie-des-universites-de-paris/v2la-chancellerie-des-universites-de-paris-recompense-lexcellence-universitaire-et-propose-des-prix/les-prix-universitaires/
+          title: Prix solennel de thèse (thesis prize)
+          url: 'https://www.calameo.com/read/00103280712596370473d?language=en&page=1'
+        - certificate_url: '' #uncommenting this adds a button 'See certificate'
+          date_end: '2018-10-31'
+          date_start: '2012-09-01'
+          description: ''
+          icon: ENP
+          organization: Ecole des Neurosciences de Paris
+          organization_url: ''
+          title: Graduate fellowship for Master's and PhD degree
           url: ''
         #- certificate_url: https://www.coursera.org
           #date_end: ''
