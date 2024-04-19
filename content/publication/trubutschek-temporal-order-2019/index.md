@@ -47,7 +47,7 @@ abstract: Abstract Classical theories hold conscious perception and working memo
   # Summary. An optional shortened abstract. (When entered, this means it won't be displayed on the front page)
 summary: ' '
 
-tags: ['Non-conscious working memory', 'Subjective perception', 'Memory']
+tags: ['Non-conscious working memory', 'Consciousness', 'Subjective perception', 'Memory']
 
 links:
 - name: Full text

@@ -79,7 +79,7 @@ abstract: 'Abstract Working memory and conscious perception are thought to share
 # Summary. An optional shortened abstract. (When entered, this means it won't be displayed on the front page)
 summary: ' '
 
-tags: ['Non-conscious working memory', 'Subjective perception', 'Memory', 'Activity-silent states', 'MEG', 'Machine learning', 'Computational modeling']
+tags: ['Non-conscious working memory', 'Consciousness', 'Subjective perception', 'Memory', 'Activity-silent states', 'MEG', 'Machine learning', 'Computational modeling']
 
 links:
 - name: Full text

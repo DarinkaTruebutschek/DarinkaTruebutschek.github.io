@@ -55,7 +55,7 @@ abstract: 'Abstract Significance Our work tackles a current debate regarding wor
   and provide a cautionary note for purely behavioral studies of non-conscious information
   processing.'
 
-tags: ['Non-conscious working memory', 'Subjective perception', 'Memory', 'Activity-silent states', 'MEG', 'Machine learning']
+tags: ['Non-conscious working memory', 'Consciousness', 'Subjective perception', 'Memory', 'Activity-silent states', 'MEG', 'Machine learning']
 
 links:
 - name: Full text
@@ -70,4 +70,26 @@ links:
   url: https://github.com/DarinkaTruebutschek/MenRot/tree/master/Scripts
   icon: github
   icon_pack: fab
+
+# Featured image
+# To use, add an image named `featured.jpg/png` to your page's folder.
+image:
+  #caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/pLCdAaMFLTE)'
+  focal_point: ''
+  preview_only: false
+
+# Associated Projects (optional).
+#   Associate this publication with one or more of your projects.
+#   Simply enter your project's folder or file name without extension.
+#   E.g. `internal-project` references `content/project/internal-project/index.md`.
+#   Otherwise, set `projects: []`.
+#projects:
+  #- example
+
+# Slides (optional).
+#   Associate this publication with Markdown slides.
+#   Simply enter your slide deck's filename without extension.
+#   E.g. `slides: "example"` references `content/slides/example/index.md`.
+#   Otherwise, set `slides: ""`.
+#slides: example
 ---
