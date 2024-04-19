@@ -1,17 +1,29 @@
 ---
 title: Probing the limits of activity-silent non-conscious working memory
+
+# If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
+# and it will be replaced with their full name and linked to their profile. (Does not work for names with special characters
+# as these do not show up in the citation)  
 authors:
-- Darinka Trübutschek
+- admin
 - Sébastien Marti
 - Henrik Ueberschär
 - Stanislas Dehaene
+
 date: '2019-07-01'
+#doi: 10.1073/pnas.1820730116
+
+# Schedule page publish date (NOT publication's date).
 publishDate: '2024-04-19T05:57:45.523420Z'
+
+# Publication type.
+# Accepts a single type but formatted as a YAML list (for Hugo requirements).
+# Enter a publication type from the CSL standard.
 publication_types:
 - article-journal
 publication: '*Proceedings of the National Academy of Sciences*'
-doi: 10.1073/pnas.1820730116
-abstract: 'Significance Our work tackles a current debate regarding working memory
+
+abstract: 'Abstract Significance Our work tackles a current debate regarding working memory
   (WM). Traditionally, this ability to maintain and manipulate information has been
   thought to require conscious processing and persistent neural activity. Recent evidence
   challenges this assumption: Information may be briefly stored without conscious
@@ -42,7 +54,20 @@ abstract: 'Significance Our work tackles a current debate regarding working memo
   memory, argue that activity-silent states merely support passive short-term memory,
   and provide a cautionary note for purely behavioral studies of non-conscious information
   processing.'
+
+tags: ['Non-conscious working memory', 'Subjective perception', 'Memory', 'Activity-silent states', 'MEG', 'Machine learning']
+
 links:
-- name: URL
+- name: Full text
   url: https://pnas.org/doi/full/10.1073/pnas.1820730116
+  icon: scroll
+  icon_pack: fa
+- name: Preprint
+  url: https://doi.org/10.1101/379537
+  icon: scroll
+  icon_pack: fa
+- name: Code
+  url: https://github.com/DarinkaTruebutschek/MenRot/tree/master/Scripts
+  icon: github
+  icon_pack: fab
 ---

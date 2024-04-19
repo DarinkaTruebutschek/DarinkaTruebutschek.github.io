@@ -61,11 +61,15 @@ abstract: Abstract The ongoing reproducibility crisis in psychology and cognitiv
 # Summary. An optional shortened abstract. (When entered, this means it won't be displayed on the front page)
 summary: ' '
 
-tags: ['Open science', 'reproducibiltiy', 'EEG']
+tags: ['Open science', 'Reproducibility', 'Multi-analyst study', 'EEG']
 
 links:
 - name: Full text
   url: https://direct.mit.edu/jocn/article/36/2/217/118308/EEGManyPipelines-A-Large-scale-Grassroots-Multi
+  icon: scroll
+  icon_pack: fa
+- name: Preprint
+  url: https://osf.io/preprints/metaarxiv/jq342
   icon: scroll
   icon_pack: fa
 - name: Pre-registration

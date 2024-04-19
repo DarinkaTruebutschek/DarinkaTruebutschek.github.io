@@ -1,20 +1,35 @@
 ---
 title: A theory of working memory without consciousness or sustained activity
+
 authors:
-- Darinka Trübutschek
+- admin
 - Sébastien Marti
 - Andrés Ojeda
 - Jean-Rémi King
 - Yuanyuan Mi
 - Misha Tsodyks
 - Stanislas Dehaene
+
+# Author notes (optional)
+#author_notes:
+  #- 'Equal contribution'
+ # - 'Equal contribution'
+  #- 'Equal contribution'
+  
 date: '2017-07-01'
+#doi: 10.7554/eLife.23871
+
+# Schedule page publish date (NOT publication's date).
 publishDate: '2024-04-19T05:57:45.511194Z'
+
+# Publication type.
+# Accepts a single type but formatted as a YAML list (for Hugo requirements).
+# Enter a publication type from the CSL standard.
 publication_types:
 - article-journal
 publication: '*eLife*'
-doi: 10.7554/eLife.23871
-abstract: 'Working memory and conscious perception are thought to share similar brain
+
+abstract: 'Abstract Working memory and conscious perception are thought to share similar brain
   mechanisms, yet recent reports of non-conscious working memory challenge this view.
   Combining visual masking with magnetoencephalography, we investigate the reality
   of non-conscious working memory and dissect its neural mechanisms. In a spatial
@@ -60,7 +75,41 @@ abstract: 'Working memory and conscious perception are thought to share similar 
   brain can also non-consciously manipulate or use information in its working memory.
   In addition, future research also needs to investigate the exact mechanism that
   stores information without constant brain activity.'
+
+# Summary. An optional shortened abstract. (When entered, this means it won't be displayed on the front page)
+summary: ' '
+
+tags: ['Non-conscious working memory', 'Subjective perception', 'Memory', 'Activity-silent states', 'MEG', 'Machine learning', 'Computational modeling']
+
 links:
-- name: URL
+- name: Full text
   url: https://elifesciences.org/articles/23871
+  icon: scroll
+  icon_pack: fa
+- name: Preprint
+  url:  https://doi.org/10.1101/093815
+  icon: scroll
+  icon_pack: fa
+
+# Featured image
+# To use, add an image named `featured.jpg/png` to your page's folder.
+image:
+  #caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/pLCdAaMFLTE)'
+  focal_point: ''
+  preview_only: false
+
+# Associated Projects (optional).
+#   Associate this publication with one or more of your projects.
+#   Simply enter your project's folder or file name without extension.
+#   E.g. `internal-project` references `content/project/internal-project/index.md`.
+#   Otherwise, set `projects: []`.
+#projects:
+  #- example
+
+# Slides (optional).
+#   Associate this publication with Markdown slides.
+#   Simply enter your slide deck's filename without extension.
+#   E.g. `slides: "example"` references `content/slides/example/index.md`.
+#   Otherwise, set `slides: ""`.
+#slides: example
 ---
