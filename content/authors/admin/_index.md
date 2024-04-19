@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Dr. Darinka Trübutschek
+title: Darinka Trübutschek
 
 # Name pronunciation (optional)
 name_pronunciation: ''

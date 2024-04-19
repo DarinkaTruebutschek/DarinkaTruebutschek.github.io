@@ -7,7 +7,8 @@ title: 'EEGManyPipelines: A Large-scale, Grassroots Multi-analyst Study of Elect
 # and it will be replaced with their full name and linked to their profile. (Does not work for names with special characters
 # as these do not show up in the citation)  
 authors:
-- Darinka Trübutschek
+- admin
+#- Darinka Trübutschek
 - Yu-Fang Yang
 - Claudia Gianelli
 - Elena Cesnaite
@@ -28,7 +29,7 @@ author_notes:
   - 'Equal contribution'
   
 date: '2024-02-01'
-doi: 10.1162/jocn_a_02087
+#doi: 10.1162/jocn_a_02087
 
 # Schedule page publish date (NOT publication's date).
 publishDate: '2024-04-19T05:57:45.557543Z'
@@ -41,7 +42,7 @@ publication_types:
 
 # Publication name and optional abbreviated publication name.
 publication: '*Journal of Cognitive Neuroscience*'
-publication_short: '*JoCN*'
+#publication_short: '*JoCN*'
 
 abstract: Abstract The ongoing reproducibility crisis in psychology and cognitive
   neuroscience has sparked increasing calls to re-evaluate and reshape scientific
@@ -99,4 +100,4 @@ image:
 #slides: example
 
 ---
-#Add the publication's **full text** or **supplementary notes** here. You can use rich formatting such as including [code, math, and #images](https://docs.hugoblox.com/content/writing-markdown-latex/).
+
