@@ -68,7 +68,7 @@ publication: '*PsyArXiv*'
 # Summary. An optional shortened abstract. (When entered, this means it won't be displayed on the front page)
 summary: ' '
 
-tags: ['Open science', 'Reproducibiltiy', 'EEG']
+tags: ['Open science', 'Reproducibility', 'EEG']
 
 abstract: 'Several studies have suggested that low-frequency brain oscillations could
   be key to understanding how the brain samples sensory information via rhythmic alternation

@@ -61,7 +61,7 @@ abstract: Abstract The ongoing reproducibility crisis in psychology and cognitiv
 # Summary. An optional shortened abstract. (When entered, this means it won't be displayed on the front page)
 summary: ' '
 
-tags: ['Open science', 'Reproducibility', 'Multi-analyst study', 'EEG']
+tags: ['Open science', 'Reproducibility', 'Science culture', 'Multi-analyst study', 'EEG']
 
 links:
 - name: Full text
