@@ -317,6 +317,18 @@ sections:
       title: Popular Topics
     design:
       columns: '2'
+  - block: collection
+    id: news
+    content: 
+      title: Recent news
+      subtitle:
+      filters:
+        folders:
+          - news
+    design:
+      columns: '2'
+      view: community/news_list
+      #view: 1
   - block: contact
     id: contact
     content:
