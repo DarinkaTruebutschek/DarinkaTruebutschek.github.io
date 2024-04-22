@@ -2,21 +2,22 @@
 title: How do subjective perception and memory shape one another?
 summary: ' '
 tags:
-  - Deep Learning
-date: '2016-04-27T00:00:00Z'
+  - Subjective perception
+  - Memory
+date: '2024-04-21T00:00:00Z'
 
 # Optional external URL for project (replaces project detail page).
 external_link: ''
 
 image:
-  caption: Photo by rawpixel on Unsplash
-  focal_point: Smart
+  #caption: Photo by rawpixel on Unsplash
+  #focal_point: Smart
 
 links:
-  - icon: twitter
-    icon_pack: fab
-    name: Follow
-    url: https://twitter.com/georgecushen
+  #- icon: twitter
+  #  icon_pack: fab
+ #   name: Follow
+  #  url: https://twitter.com/georgecushen
 url_code: ''
 url_pdf: ''
 url_slides: ''
@@ -27,7 +28,7 @@ url_video: ''
 #   Simply enter your slide deck's filename without extension.
 #   E.g. `slides = "example-slides"` references `content/slides/example-slides.md`.
 #   Otherwise, set `slides = ""`.
-slides: example
+# slides: example
 ---
 
 Many of us believe that our senses provide an accurate reflection of reality. However, already back in the 
@@ -45,3 +46,6 @@ What is completely missing so far is a unifying theory that explains when and ho
 perception and memory interact and/or merge with each other and which 
 specific mechanisms in the human brain make this possible. In the long-term, I aim to develop such a unifying theory.
 {style="text-align: justify;"}
+
+
+If you are curious to learn more, check out some of my associated publications: 

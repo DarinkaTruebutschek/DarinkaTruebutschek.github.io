@@ -245,10 +245,12 @@ sections:
       buttons:
         - name: All
           tag: '*'
-        - name: Deep Learning
-          tag: Deep Learning
-        - name: Other
-          tag: Demo
+        - name: Subjective Perception
+          tag: Subjective Perception
+        - name: Memory
+          tag: Memory
+        - name: Open Science
+          tag: Open Science
     design:
       # Choose how many columns the section has. Valid values: '1' or '2'.
       columns: '1'
