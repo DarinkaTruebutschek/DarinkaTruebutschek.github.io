@@ -23,7 +23,7 @@ publication_types:
 - article-journal
 publication: '*Proceedings of the National Academy of Sciences*'
 
-abstract: 'Abstract Significance Our work tackles a current debate regarding working memory
+abstract: 'Significance Our work tackles a current debate regarding working memory
   (WM). Traditionally, this ability to maintain and manipulate information has been
   thought to require conscious processing and persistent neural activity. Recent evidence
   challenges this assumption: Information may be briefly stored without conscious

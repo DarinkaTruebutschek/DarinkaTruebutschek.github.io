@@ -29,7 +29,7 @@ publication_types:
 - article-journal
 publication: '*Scientific Reports*'
 
-abstract: Abstract Classical theories hold conscious perception and working memory
+abstract: Classical theories hold conscious perception and working memory
   to be tightly interwoven. Recent work has challenged this assumption, demonstrating
   that information may be stored for several seconds without any subjective awareness.
   Does such non-conscious working memory possess the same functional properties as

@@ -29,7 +29,7 @@ publication_types:
 - article-journal
 publication: '*eLife*'
 
-abstract: 'Abstract Working memory and conscious perception are thought to share similar brain
+abstract: 'Working memory and conscious perception are thought to share similar brain
   mechanisms, yet recent reports of non-conscious working memory challenge this view.
   Combining visual masking with magnetoencephalography, we investigate the reality
   of non-conscious working memory and dissect its neural mechanisms. In a spatial

@@ -30,7 +30,7 @@ publication_types:
 
 publication: '*Journal of Vision*'
 
-abstract: 'Abstract According to a Bayesian framework, visual perception requires active
+abstract: 'According to a Bayesian framework, visual perception requires active
   interpretation of noisy sensory signals in light of prior information. One such mechanism,
   serial dependence, is thought to promote perceptual stability by assimilating current 
   percepts with recent stimulus history. Combining a delayed orientation-adjustment paradigm

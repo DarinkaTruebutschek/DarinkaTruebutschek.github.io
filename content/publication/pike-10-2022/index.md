@@ -36,7 +36,7 @@ publication_types:
 - article-journal
 publication: '*Journal of Cognitive Neuroscience*'
 
-abstract: Abstract The transition to principal investigator (PI), or lab leader, can
+abstract: The transition to principal investigator (PI), or lab leader, can
   be challenging, partially due to the need to fulfil new managerial and leadership
   responsibilities. One key aspect of this role, which is often not explicitly discussed,
   is creating a supportive lab environment. Here, we present ten simple rules to guide

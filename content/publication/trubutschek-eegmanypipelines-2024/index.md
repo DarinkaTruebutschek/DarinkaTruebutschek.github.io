@@ -44,7 +44,7 @@ publication_types:
 publication: '*Journal of Cognitive Neuroscience*'
 #publication_short: '*JoCN*'
 
-abstract: Abstract The ongoing reproducibility crisis in psychology and cognitive
+abstract: The ongoing reproducibility crisis in psychology and cognitive
   neuroscience has sparked increasing calls to re-evaluate and reshape scientific
   culture and practices. Heeding those calls, we have recently launched the EEGManyPipelines
   project as a means to assess the robustness of EEG research in naturalistic conditions
