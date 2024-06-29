@@ -64,7 +64,7 @@ sections:
       #   Leave `date_end` empty if it's your current employer.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
-        - title: Postdoctoral Research Fellow
+        - title: Research Fellow
           company: Max Planck Institute for Empirical Aesthetics
           company_url: 'https://www.aesthetics.mpg.de/en.html'
           company_logo: mpi_ea_logo
