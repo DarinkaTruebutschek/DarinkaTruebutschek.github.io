@@ -1,5 +1,5 @@
 ---
-title: Preprint on subjective evidence evaluation scale for multi-analyst studies published
+title: Preprint on subjective evidence evaluation scale for multi-analyst studies now published in Royal Society Open Science
 subtitle: ''
 summary: ''
 tags:
@@ -32,6 +32,6 @@ url_video: ''
 #   Otherwise, set `slides = ""`.
 # slides: example
 ---
-Check out the latest [work]({{< relref "/publication/zheng-attribute-2024" >}}) by my amazing collaborator, Zefan, in which we examine how context affects subjective perception.
+Our recent [preprint]({{< relref "/publication/zheng-attribute-2024" >}}), led by the amazing Alexandra, has just been published in Royal Society Open Science. In this study, we developed a subjective evidence evaluation scale for multi-analyst studies in order to be able to take into account analysts' subjective views on the appropriateness of the research design and the strength of the evidence for the hypothesis. Check out the paper or get in touch if you want to know more!
 {style="text-align: justify;"}
 
