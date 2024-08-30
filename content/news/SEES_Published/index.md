@@ -6,7 +6,7 @@ tags:
   - Subjective perception
   - Consciousness
   - Memory
-date: '2024-04-22T00:00:00Z'
+date: '2024-07-25T00:00:00Z'
 
 # Optional external URL for project (replaces project detail page).
 external_link: ''
