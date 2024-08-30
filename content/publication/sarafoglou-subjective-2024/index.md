@@ -62,10 +62,10 @@ publishDate: '2024-04-19T05:57:45.572099Z'
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
 # Enter a publication type from the CSL standard.
 publication_types:
-- preprint
+- article-journal
 
 # Publication name and optional abbreviated publication name.
-publication: '*PsyArXiv*'
+publication: '*Royal Society Open Science*'
 #publication_short: '*JoCN*'
 
 abstract: Many-analysts studies explore how well an empirical claim withstands plausible
@@ -87,10 +87,10 @@ summary: ' '
 tags: ['Open science', 'Reproducibility', 'Multi-analyst study']
 
 links:
-#- name: Full text
-  #url: https://direct.mit.edu/jocn/article/36/2/217/118308/EEGManyPipelines-A-Large-scale-Grassroots-Multi
- # icon: scroll
-  #icon_pack: fa
+- name: Full text
+  url: https://royalsocietypublishing.org/doi/full/10.1098/rsos.240125
+  icon: scroll
+  icon_pack: fa
 - name: Preprint
   url: https://osf.io/mxje3
   icon: scroll
