@@ -64,6 +64,9 @@ sections:
       #   Leave `date_end` empty if it's your current employer.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
+        - title: Test
+          company: Test
+          date_start: '2025-06-16'
         - title: Research Fellow
           company: Max Planck Institute for Empirical Aesthetics
           company_url: 'https://www.aesthetics.mpg.de/en.html'
