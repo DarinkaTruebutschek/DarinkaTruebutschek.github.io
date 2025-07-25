@@ -137,3 +137,5 @@ Beyond my research, I am committed to fostering an open, inclusive, and transpar
 
 Before joining Maastricht, I was a [Marie Sklodowska-Curie Fellow](https://cordis.europa.eu/project/id/101023805) working with Prof. Lucia Melloni at the [Max Planck Institute for Empirical Aesthetics](https://www.aesthetics.mpg.de/en/research/research-group-neural-circuits-consciousness-and-cognition.html) in Frankfurt/Main (Germany). Prior to this, I had worked with Prof. Mark Stokes at the [University of Oxford](https://www.psy.ox.ac.uk/news/in-memoriam-mark-stokes) (UK) as a postdoctoral research fellow funded by the [Fondation Fyssen](https://www.fondationfyssen.fr/en/) and completed my PhD with Prof. Stanislas Dehaene at [Neurospin](https://www.unicog.org/) (Paris, France).
 {style="text-align: justify;"}
+
+If you are interested in joining the lab or collaborating, feel free to get in touch!
