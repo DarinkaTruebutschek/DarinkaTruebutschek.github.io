@@ -342,16 +342,16 @@ sections:
       text: |-
         If you care about similar topics, would like to learn more, or just want to chat, I look forward to hearing from you.
       # Contact (add or remove contact options as necessary)
-      email: darinka(dot)truebutschek(dot)ae(dot)mpg(at)de
-      phone: +49 69 8300479-332
+      email: darinka(dot)trubutschek(at)maastrichtuniversity(dot)nl
+      # phone: +49 69 8300479-332
       #appointment_url: 'https://calendly.com'
       address:
-        street: Max Planck Institute for Empirical Aesthetics, Grüneburgweg 14
-        city: Frankfurt/Main
+        street: Maastricht Brain Imaging Centre, Oxfordlaan 55
+        city: Maastricht
         #region: CA
-        postcode: '60322'
-        country: Germany
-        country_code: DE
+        postcode: '6299 EV'
+        country: Netherlands
+        country_code: NL
       #directions: Enter Building 1 and take the stairs to Office 200 on Floor 2
       #office_hours:
         #- 'Monday 10:00 to 13:00'
