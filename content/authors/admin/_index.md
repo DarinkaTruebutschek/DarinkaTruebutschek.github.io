@@ -129,7 +129,7 @@ social:
 highlight_name: true
 ---
 
-I am an Assistant Professor of cognitive neuroscience at Maastricht University, where I have just started my position and am in the process of setting up my research group. My work investigates how the human brain generates and stores subjective experiences - how perception, memory, and decision-making emerge from neural activity, and how they are shaped by our past and guided by our goals. To tackle these questions, I combine psychophysics and eye-tracking with electrophysiology (EEG, MEG, and iEEG), computational modeling, and machine learning.
+I am an Assistant Professor of Cognitive Neuroscience at Maastricht University, where I have just started my position and am in the process of setting up my research group. My work investigates how the human brain generates and stores subjective experiences - how perception, memory, and decision-making emerge from neural activity, and how they are shaped by our past and guided by our goals. To tackle these questions, I combine psychophysics and eye-tracking with electrophysiology (EEG, MEG, and iEEG), computational modeling, and machine learning.
 {style="text-align: justify;"}
 
 Beyond my research, I am committed to fostering an open, inclusive, and transparent scientific culture. I actively participate in several open-science initiatives, including serving on the steering committee of the [EEGManyPipelines project](https://eegmanypipelines.github.io/).
