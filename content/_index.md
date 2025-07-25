@@ -66,7 +66,8 @@ sections:
       items:
         - title: Assistant Professor
           company: Maastricht University
-          company_url: 'https://mastrichtuniversity.nl'
+          company_url: 'https://maastrichtuniversity.nl'
+          location: Maastricht, Netherlands
           date_start: '2025-06-16'
         - title: Research Fellow
           company: Max Planck Institute for Empirical Aesthetics
